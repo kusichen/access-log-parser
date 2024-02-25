@@ -31,3 +31,5 @@ bin/
 .idea/
 out/
 *.iml
+pom.xml
+*jar
